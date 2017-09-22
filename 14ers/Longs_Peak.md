@@ -10,4 +10,6 @@ Front Range
 40°15′18″N 105°36′54″W
 
 **Interesting facts:**
+
+This mountain is super difficult to climb, particularly if you're in sub-par shape
 First ascent in 1868 by John Wesley Powell and party
