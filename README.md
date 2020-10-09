@@ -39,6 +39,4 @@ The markdown template is below generally.
 
 ## Latitude, longitude
 
-this is the change i have done after fork and clone
-
-***
+this is new line by Dr. Manoj Devare
