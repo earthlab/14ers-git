@@ -1,0 +1,152 @@
+[33mcommit e4e0974dcd2869fbfff4f0b0b569001b6a508168[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lashax <repeop0@gmail.com>
+Date:   Wed Oct 21 20:36:26 2020 +0400
+
+    Update La_Plata_Peak.md
+    
+    I did some nonsense.
+
+[33mcommit c5260aa6b71b743b59afe7dc910c00d72ba86ad3[m
+Merge: 64611f6 3eced7b
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Fri Sep 22 15:53:33 2017 -0600
+
+    Merge pull request #15 from dmzonana/master
+    
+    added some info on Capitol Peak
+
+[33mcommit 64611f64e8ea2b3169c1d5d206e9c4e64276d0f3[m
+Merge: 05d393f a170f7d
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Fri Sep 22 15:53:20 2017 -0600
+
+    Merge pull request #16 from tmcdevittgalles/master
+    
+     added the info for Conundrum_peak
+
+[33mcommit 05d393fabba484ab3c45c87263a1cc65256e6d99[m
+Merge: e05bd46 fd512bc
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Fri Sep 22 15:48:18 2017 -0600
+
+    Merge pull request #17 from aprilgoebl/master
+    
+    Elevation, Range, Lat/ long and interesting fact added
+
+[33mcommit e05bd4654160c471bfc3870c750c196cab262bdd[m
+Merge: 83cbdd1 340180f
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Fri Sep 22 15:42:31 2017 -0600
+
+    Merge pull request #18 from mcattau/master
+    
+    Added some text about the slaying capacity of Long's Peak
+
+[33mcommit 340180fb77e06cd84f8c03042be288b7e5a790b8[m
+Merge: e7538f6 83cbdd1
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Fri Sep 22 15:41:46 2017 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 83cbdd1643348b3b7ce2d4b75ce75edfdab2619c[m
+Merge: 233e962 2224cd1
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Fri Sep 22 15:37:14 2017 -0600
+
+    Merge pull request #3 from espg/changes
+    
+    Longs!
+
+[33mcommit a170f7d9b43780da5840221888ccc6c5f1043e44[m
+Author: tmcdevittgalles <travis.mcdevittgalles@colorado.edu>
+Date:   Fri Sep 22 15:17:44 2017 -0600
+
+     adde the info for Conundrum_peak'
+    
+    q
+
+[33mcommit fd512bc3d0240a1d5f9960d93d5a98fa1a34d0fc[m
+Author: aprilgoebl <april.goebl@colorado.edu>
+Date:   Fri Sep 22 15:15:37 2017 -0600
+
+    Elevation, Range, Lat/ long and interesting fact added
+
+[33mcommit 3eced7b842b852ee58ced5591dd50330c2a48cfe[m
+Author: dzonana <dmzonana@gmail.com>
+Date:   Fri Sep 22 15:13:02 2017 -0600
+
+    added some info on Capitol Peak
+
+[33mcommit e7538f699677f73ed0841c3fca281b5707497252[m
+Author: MCattau <megan.cattau@gmail.com>
+Date:   Fri Sep 22 15:12:15 2017 -0600
+
+    Added some text about the slaying capacity of Long's Peak
+
+[33mcommit 2224cd1902c2cb2cbd90659ce7c18df34d3d8c5e[m
+Author: espg <refuge@rocktalus.com>
+Date:   Fri Sep 22 15:11:43 2017 -0600
+
+    Longs!
+
+[33mcommit 233e962d65418c3169ff009a08bfee644ab7747f[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Thu Sep 21 08:14:06 2017 -0600
+
+    Added more details about the activity
+
+[33mcommit a804d350944df193a787fc793613e7958c98d44e[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Thu Sep 21 08:05:39 2017 -0600
+
+    adding credit to readme
+
+[33mcommit e668bb0fdc60757861ea337e89ab4f382e20a47b[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Thu Sep 21 08:04:41 2017 -0600
+
+    adding all 14er files
+
+[33mcommit e27bf13cc9fd9a5c1df1b506b347be6313812463[m
+Merge: eaf258e 48c31ed
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Wed Sep 20 12:37:28 2017 -0600
+
+    Merge branch 'master' into master
+
+[33mcommit 48c31ede91a58ef3dace74095490c83d160c9849[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Wed Sep 20 12:36:31 2017 -0600
+
+    text to use for a pr
+
+[33mcommit eaf258e46eae304059aa217aad05ea570fb88c83[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Wed Sep 20 12:36:11 2017 -0600
+
+    removing edits
+
+[33mcommit 04130cc5671ff136d0faef884951e1abe25fa52f[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Wed Sep 20 12:35:52 2017 -0600
+
+    Another commit
+
+[33mcommit ddc44e2a35dc59739455a6036aa37df572f0c302[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Wed Sep 20 12:35:29 2017 -0600
+
+    Adding text to the readme
+
+[33mcommit ecd1442be3a6cdde80d6b152fb05a70c2d5d749d[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Wed Sep 20 09:48:44 2017 -0600
+
+    create one mountain file.
+
+[33mcommit c9b14fb226c28cbfeed7093c9c4eacbfe5578ecd[m
+Author: Leah Wasser <leah.wasser@colorado.edu>
+Date:   Wed Sep 20 09:44:19 2017 -0600
+
+    Initial commit
