@@ -33,6 +33,7 @@ Conundrum_Peak
 Pyramid_Peak
 North_Maroon_Peak
 Uncompahgre_Peak
+A_New_Peak
 Mt_Wilson
 El_Diente_Peak
 Mt_Sneffels
