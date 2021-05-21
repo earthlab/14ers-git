@@ -7,7 +7,7 @@ The original activity was developed and taught by Jonah Duckles (https://github.
 Many thanks to Jonah Duckles for developing this activity. 
 
 To implement the activity.
-* Have the class all FORK the repo. 
+* Have the class all FORK the repo! 
 * Then have them  clone the repo locally (if you want them to practice committing and working locally). If you don't have them select one file to edit. 
 * Edit the file filling in the details about that particular mountain. 
 * Then commit the changes. 
