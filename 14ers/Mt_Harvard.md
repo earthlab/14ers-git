@@ -1,6 +1,6 @@
 # Mountain Info
 Please fill in some of the facts that are missing below!
-**El:**
+**Elooo:**
 14,420 ft
 **Range:**
 **Latitude, Longitude:**
