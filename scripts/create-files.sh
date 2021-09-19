@@ -1,5 +1,5 @@
 #!/bin/bash
 
-for thing in $(cat all-co14ers.txt);
-do cp template.md ../14ers/${thing}.md;
+for thing in $(cat all-tahoe.txt);
+do cp template.md ../tahoe/${thing}.md;
 done
