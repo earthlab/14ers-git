@@ -36,6 +36,7 @@ done
 The markdown template is below generally.
 
 ## Mountain elevation
+Alatau Mountains are located in Central Asia
 
 ## Latitude, longitude
 
