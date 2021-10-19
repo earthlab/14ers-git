@@ -33,7 +33,7 @@ do cp template.md mountains/${thing}.md;
 done
 ```
 ## Template
-The markdown template is below generally.
+The Markdown template is below generally.
 
 ## Mountain elevation
 
