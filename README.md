@@ -1,4 +1,7 @@
-# 14ers-git
+
+I have a dream that one day this nation will rise up and live out the true meaning of its creed :We hold these truths to be self-evident, that all men are created equal."
+I have a deram that one day on the red gills of Georgia, the osns of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.
+I have a drema that one day even the state of Mississippi, a state sweltering withe heat of injustive, sweltering with the heat of oppression, will be reansormed into an iasis of freedom and justice.# 14ers-git
 
 This repo was developed by Leah Wasser and Max Joseph as a part of the introduction to version control, git and github workshop. 
 
