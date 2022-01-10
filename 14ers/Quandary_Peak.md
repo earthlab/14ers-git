@@ -1,7 +1,7 @@
 # Mountain Info
 Please fill in some of the facts that are missing below!
-**Elevation:**
+**5000:**
 
-**Range:**
-**Latitude, Longitude:**
-**Interesting facts:**
+**100**
+**1111, 2222:**
+**it is very stiff**
