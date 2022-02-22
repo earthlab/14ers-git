@@ -3,16 +3,7 @@
 This repo was developed by Leah Wasser and Max Joseph as a part of the introduction to version control, git and github workshop. 
 
 ## About the activity
-The original activity was developed and taught by Jonah Duckles (https://github.com/jduckles/git-collaboration). Earth Lab adapted the activity to use 14ers rather than countries to be more specific to Colorado :). 
-Many thanks to Jonah Duckles for developing this activity. 
-
-To implement the activity.
-* Have the class all FORK the repo. 
-* Then have them  clone the repo locally (if you want them to practice committing and working locally). If you don't have them select one file to edit. 
-* Edit the file filling in the details about that particular mountain. 
-* Then commit the changes. 
-* Push the changes to their fork if that is necessary.
-* Submit a pull request to the earthlab repo. 
+The original activity was developed and taught by Jonah Duckles (https://github.com/jduckles/git-collaboration). Earth Lab adapted the activity to use 14ers rather than countries to be more 
 
 Ideally one or two merge conflicts arise. This can be a learning moment and used as a demonstration of how that works. However to keep things simple, just have them submit a PR vs worrying about syncing...
 
