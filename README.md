@@ -1,6 +1,6 @@
 # 14ers-git
 
-This repo was developed by Leah Wasser and Max Joseph as a part of the introduction to version control, git and github workshop. 
+This repo was developed by Leah Wasser and Max Joseph as a part of the introduction to version control, git 
 
 ## About the activity
 The original activity was developed and taught by Jonah Duckles (https://github.com/jduckles/git-collaboration). Earth Lab adapted the activity to use 14ers rather than countries to be more specific to Colorado :). 
