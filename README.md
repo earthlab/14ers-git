@@ -5,6 +5,8 @@ This repo was developed by Leah Wasser and Max Joseph as a part of the introduct
 ## About the activity
 The original activity was developed and taught by Jonah Duckles (https://github.com/jduckles/git-collaboration). Earth Lab adapted the activity to use 14ers rather than countries to be more specific to Colorado :). 
 Many thanks to Jonah Duckles for developing this activity. 
+new contributor
+(https://github.com/ahmadkay)
 
 To implement the activity.
 * Have the class all FORK the repo. 
