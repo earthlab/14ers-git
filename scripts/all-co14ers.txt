@@ -56,3 +56,5 @@ Culebra_Peak
 Ellingwood_Point
 Mt_Lindsey
 Little_Bear_Peak
+K2_peak
+western_ghats
