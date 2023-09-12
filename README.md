@@ -41,5 +41,4 @@ The markdown template is below generally.
 
 ## Interesting fact
 
-IM CHANING IT
-***
+Im fixing it*
